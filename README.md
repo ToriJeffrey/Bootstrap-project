@@ -1,0 +1,3 @@
+## Bootstrap project
+
+This is my first framework I have used since starting my programming journey. I decided to create a page on Bootstrap while using Bootstrap as I wasn't feeling very creative. There are a few things that can be improved upon as I learn more about this framework. Things such as: the title and tagline being pushed more towards the center of the header and the last image needs to be centered correctly between 770px and 990px

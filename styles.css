@@ -1,0 +1,59 @@
+html {
+    font-size: 1rem;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color: hsl(271, 100%, 56%);
+}
+
+/* HEADER */
+#bootstrap-logo{
+    width: 250px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+header p{
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+/* INTRO SECTION */
+.intro, .scroll{
+    font-size: 1.5rem;
+    font-weight: 200;
+    text-align: center;
+}
+
+.scroll{
+    font-size: 2rem;
+}
+
+hr {
+    border-top: 10px solid hsl(271, 100%, 32%);
+    opacity: 0.5;
+    margin: 0;
+}
+
+/* MAIN */
+.feature{
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.description{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+#logos{
+    width: 400px;
+}
+
+#customise{
+    width: 500px;
+}
